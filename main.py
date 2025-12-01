@@ -1,7 +1,7 @@
 import random
 
 def main() ->list[int]:
-    """_summary_
+    """The main function to be callled by the pipeline
 
     :return: _description_
     :rtype: list[int]
